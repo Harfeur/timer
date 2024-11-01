@@ -6,6 +6,7 @@ const buttonMinus = document.querySelector('.buttonMinus')
 const buttonLightTheme = document.querySelector('.lightTheme')
 const buttonDarkTheme = document.querySelector('.darkTheme')
 
+const cards = document.querySelector('.cards')
 const forestCard = document.querySelector('.forest')
 const rainCard = document.querySelector('.rain')
 const fireCard = document.querySelector('.fire')
@@ -32,6 +33,7 @@ export {
 	buttonMinus,
 	buttonLightTheme,
 	buttonDarkTheme,
+	cards,
 	forestCard,
 	rainCard,
 	fireCard,
